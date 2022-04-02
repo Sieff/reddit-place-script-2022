@@ -1,6 +1,6 @@
 {
     "image_path": "hai.png",
-    "image_start_coords": [741, 610],
+    "image_start_coords": [1747,543],
     "thread_delay": 2,
     "unverified_place_frequency": "False",
     "workers": {
